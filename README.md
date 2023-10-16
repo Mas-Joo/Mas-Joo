@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://f.top4top.io/p_28451ay3h1.jpg" alt="Logo Proyek">
+  <img src="https://f.top4top.io/p_28451ay3h1.jpg" alt="Logo Proyek" width="200" height"200">
 </p>
 
 # Proyek Saya yang Luar Biasa
